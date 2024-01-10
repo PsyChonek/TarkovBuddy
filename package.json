@@ -1,6 +1,6 @@
 {
   "name": "tarkovbuddy",
-  "productName": "tarkovbuddy",
+  "productName": "Tarkov Buddy",
   "version": "1.0.0",
   "description": "TarkovBuddy",
   "main": ".webpack/main",
